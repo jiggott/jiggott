@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="home">
+  
+  {{ content }}
+
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Oh no! It's James Higgott</h1>
+        <p>You've landed on the James Higgott site. Read a blog post or folow one of the links at the bottom of the page for more James Higgott on the web.</p>
+        <h2>Latest post:</h2>
+        {% for post in site.posts limit: 1 %}<p>{{ post.date | date: "%b %-d, %Y" }} <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></p>{% endfor %}
+        <p><a class="btn btn-primary btn-lg" href="#" role="button">All blog posts</a></p>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-4">
+          <h2>Heading</h2>
+          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>Heading</h2>
+          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+       </div>
+        <div class="col-md-4">
+          <h2>Heading</h2>
+          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div>
+      </div>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>
