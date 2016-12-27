@@ -9,7 +9,6 @@
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: $headings-font-family;
-  font-weight: $headings-font-weight;
   line-height: $headings-line-height;
   color: $headings-color;
 
@@ -22,21 +21,23 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1,
-h2, .h2,
-h3, .h3 {
+h2, .h2 {
   margin-top: $line-height-computed;
   margin-bottom: ($line-height-computed / 2);
+  font-weight: $headings-font-weight;
 
   small,
   .small {
     font-size: 65%;
   }
 }
+h3, .h3,
 h4, .h4,
 h5, .h5,
 h6, .h6 {
+  font-weight: $small-headings-font-weight;
   margin-top: ($line-height-computed / 2);
-  margin-bottom: ($line-height-computed / 2);
+  margin-bottom: 0;
 
   small,
   .small {
@@ -136,9 +137,18 @@ mark,
 // -------------------------
 
 .page-header {
-  padding-bottom: (($line-height-computed / 2) - 1);
-  margin: ($line-height-computed * 2) 0 $line-height-computed;
-  border-bottom: 1px solid $page-header-border-color;
+  padding: ($line-height-computed / 2) 0;
+  background-color: $gray-darker;
+  font-size: $font-size-large;
+  color: #fff;
+}
+
+.page-header a {
+  color: $navbar-inverse-link-color;
+}
+
+.page-header a:hover {
+  color: $navbar-inverse-link-hover-color;
 }
 
 
