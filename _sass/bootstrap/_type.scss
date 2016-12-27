@@ -133,22 +133,29 @@ mark,
 @include bg-variant('.bg-danger', $state-danger-bg);
 
 
-// Page header
+// Page header and footer
 // -------------------------
 
-.page-header {
-  padding: ($line-height-computed / 2) 0;
+.page-header,
+.page-footer {
+  padding: ($line-height-computed / 2) 0 ($line-height-computed / 4);
   background-color: $gray-darker;
   font-size: $font-size-large;
   color: #fff;
+    a {
+      color: $navbar-inverse-link-color;
+    }
+    a:hover {
+      color: $navbar-inverse-link-hover-color;
+    }
 }
 
-.page-header a {
-  color: $navbar-inverse-link-color;
+.page-header {
+  margin-bottom: $line-height-computed;
 }
 
-.page-header a:hover {
-  color: $navbar-inverse-link-hover-color;
+.page-footer {
+  margin-top: $line-height-computed;
 }
 
 

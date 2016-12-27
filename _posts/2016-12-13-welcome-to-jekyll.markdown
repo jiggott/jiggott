@@ -1,7 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-12-13
+date: 2016-12-13
+title: Sample words for a blog post title
+description: The best podcasts, music, books, films, places and events of 2015. According to James Higgott.
+tags: tag1
+socialtitle: Social title test
+socialdescription:
+socialimageurl: 
+socialimagealt: alt test
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

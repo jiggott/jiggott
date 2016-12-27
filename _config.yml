@@ -18,6 +18,7 @@ email: your-email@domain.com
 description: James Higgott lives in London. He does charity/NFP digital stuff for a living and he can play the drums.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jiggott.com" # the base hostname & protocol for your site, e.g. http://example.com
+socialimageurl: http://graphics8.nytimes.com/images/2012/02/19/us/19whitney-span/19whitney-span-articleLarge.jpg
 twitter_username: jiggott
 github_username: jiggott
 timezone: Europe/London

@@ -3,8 +3,11 @@ layout: post
 date: 2015-12-27
 title: Best of 2015
 description: The best podcasts, music, books, films, places and events of 2015. According to James Higgott.
-socialimage: 
-socialimagealt: 
+tags: review tag1
+socialtitle: Social title test
+socialdescription:
+socialimageurl: 
+socialimagealt: alt test
 ---
 
 These are some things I’ve enjoyed in 2015.
