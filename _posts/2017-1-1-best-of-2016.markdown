@@ -1,0 +1,92 @@
+---
+layout: post
+date: 2016-1-1
+title: Best of 2016
+description: The best podcasts, music, books, films, places and events of 2016. According to James Higgott.
+tags: Reviews
+socialtitle: 
+socialdescription:
+socialimageurl: 
+socialimagealt: 
+---
+
+These are some things I’ve enjoyed in 2016.
+
+## Podcasts
+
+### Favourite podcast
+For the second year running, it's [Answer Me This podcast](answermethispodcast.com) with Helen and Olly (and Martin the soundman). I'm finally caught up with the back catalogue and it has been a lot of fun doing so.
+
+### Favourite new podcast
+[The United States of Anxiety](http://www.wnyc.org/shows/anxiety) was a first-rate piece of audio journalism, a window into America in the run-up to the US presidential election.
+
+### Favourite podcast episode
+Benjamin Walker's [Because there's nothing else to do](https://toe.prx.org/2016/07/because-theres-nothing-else-to-do/) captured the feeling of listlessness and disorientation that many people felt after the Brexit vote. On a more whimsical note, shout out as well for [Things Called Jazz That Are Not Jazz](http://www.bbc.co.uk/programmes/b07q7lzc).
+
+## Music
+
+### Favourite new band
+[Kvelertak](http://www.kvelertak.com/)
+
+### Favourite old band
+Tortoise - I was disappointed by The Catastrophist but it led to me exploring their back catalogue a bit more and coming across some things I had missed over the years.
+
+### Favourite gig
+Kvelertak at the Electric Ballroom.
+
+### Favourite album of 2016
+Nattesford by Kvelertak. 
+
+## Books
+
+### Favourite novel I read in 2015
+[Night and the City](https://www.goodreads.com/book/show/948618.Night_and_the_City) by Gerald Kirsch.
+
+### Favourite comic book I read in 2015
+[Three](https://www.goodreads.com/book/show/20638282-three) by Kieron Gillen.
+
+### Favourite non-fiction book I read in 2015
+[The Geek Manifesto: Why Science Matters](https://www.goodreads.com/book/show/13630458-the-geek-manifesto) by Mark Henderson.
+
+### Favourite book that was actually published in 2015
+[Seveneves](https://www.goodreads.com/book/show/22816087-seveneves) by Neal Stephenson.
+
+## Films
+
+### Favourite film from 2016
+[This time last year]({% post_url 2015-12-27-best-of-2015 %}) I was most excited for High Rise but my favourite films of 2016 were ones that I knew nothing about until I saw them in the cinema: Hunt for the Wildepeople was funny and poignant, and Arrival was sci-fi at its best - complex, abstract ideas explored in a speculative but believable setting.
+
+### Favourite old film that I watched in 2016
+Django Unchained (2012). OK, it's not that old but it is a far superior film to the actually hateful The Hateful Eight, which I saw at the beginning of 2016.
+
+## Places and events
+
+### Favourite holiday
+A long weekend in Wales with people I don't see all that often was probably my highlight, not least because we stopped off for a swim at Southerndown Beach on the way home.
+
+### Favourite exhibition
+[Strange and Familiar](https://www.barbican.org.uk/artgallery/event-detail.asp?ID=17922) - photos of Britain by international photographers - was excellent.
+
+### Favourite news story
+Two stories about bots and AI really caught my imagination: [DeepMind beating Lee Sedol at Go](http://insight.welovesalt.com/post/102da8p/is-twitter-just-a-platform-of-hate) and Microsoft's AI chatbot [turning from teenage girl to Hitler-loving sex robot](http://insight.welovesalt.com/post/102da8p/is-twitter-just-a-platform-of-hate) after just 24 hours' exposure to Twitter.
+
+### Favourite work-related news story
+<abbr title="Sustainability and Transformation Plans">STPs</abbr>. I think they're a good thing but they need time and space and money to succeed, all of which are in short supply these days.
+
+### Biggest loss
+David Bowie? Muhammad Ali? Carrie Fisher? We lost many people this year but I'll pick [Jo Cox](https://en.wikipedia.org/wiki/Jo_Cox) as the biggest loss, partly because of the terrible nature of her death and partly because her best work was most likely ahead of her.
+
+## Projects and activities
+
+I'm not sure I consolidated any of the activities I said I ought to in my [best of 2015 blog post]({% post_url 2015-12-27-best-of-2015 %}) last year. I did publish the [Crystal Palace Grub Crawl blog](https://crystalpalacegrubcrawl.com/) but I only published nine posts. None of the places I've reviewed have closed down though.
+
+### Best new activity
+I've started a new band with a guitarist friend. We have some tunes, a singer and a plan to head into the studio by March. 
+
+### Favourite project at work
+I produced a couple of big pieces of work (an [animated infographic of election pledges](http://election.kingsfund.org.uk/pledges/) and an [alternative guide to mental health care](http://www.kingsfund.org.uk/audio-video/alternative-guide-mental-health-care-england)) and we won four Digital Impact awards for our election work. However, the thing I’m most proud of is [this blog about NHS.UK](http://www.kingsfund.org.uk/blog/2015/08/will-nhsuk-be-next-govuk) &ndash; the communications team does not traditionally write blogs, so pitching this, having it accepted and then writing it was quite out of the ordinary.
+
+### Favourite project at home
+I built our Christmas tree ([details here]({% post_url 2015-12-19-homemade-wooden-christmas-tree %})).
+
+<figure data-orig-width="2448" data-orig-height="3264" class="tmblr-full"><img src="https://68.media.tumblr.com/e0005185c26772815128c4b2fa4b42a3/tumblr_inline_o00rycgMWU1qzlakw_540.jpg" data-orig-width="2448" data-orig-height="3264" alt="image"></figure>

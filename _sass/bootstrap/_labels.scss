@@ -2,17 +2,16 @@
 // Labels
 // --------------------------------------------------
 
-.label {
+.label, .tag {
   display: inline;
-  padding: .2em .6em .3em;
-  font-size: 75%;
-  font-weight: bold;
+  padding: .2em 0.8em .3em;
+  font-size: 50%;
   line-height: 1;
   color: $label-color;
   text-align: center;
   white-space: nowrap;
-  vertical-align: baseline;
-  border-radius: .25em;
+  vertical-align: middle;
+  border-radius: 1em;
 
   // [converter] extracted a& to a.label
 
@@ -29,7 +28,7 @@
 }
 
 // Add hover effects, but only for links
-a.label {
+a.label, a.tag {
   &:hover,
   &:focus {
     color: $label-link-hover-color;
@@ -41,7 +40,7 @@ a.label {
 // Colors
 // Contextual variations (linked labels get darker on :hover)
 
-.label-default {
+.label-default, .tag {
   @include label-variant($label-default-bg);
 }
 

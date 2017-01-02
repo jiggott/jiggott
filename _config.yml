@@ -23,12 +23,17 @@ twitter_username: jiggott
 github_username: jiggott
 timezone: Europe/London
 permalink: /:year/:title
+tags: 
+  - London
+  - Charity/Digital
+  - Reviews
+  - Photos
+  - Recipes
 
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
-  - jekyll-feed
+gems: [jekyll-feed, jekyll-import]
 exclude:
   - Gemfile
   - Gemfile.lock

@@ -15,11 +15,31 @@ $gray:                   lighten($gray-base, 33.5%) !default; // #555
 $gray-light:             lighten($gray-base, 46.7%) !default; // #777
 $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
 
-$brand-primary:         darken(#428bca, 6.5%) !default; // #337ab7
-$brand-success:         #5cb85c !default;
-$brand-info:            #5bc0de !default;
-$brand-warning:         #f0ad4e !default;
-$brand-danger:          #d9534f !default;
+$blue: #4358ab !default;
+$blue-dark: darken($blue, 20%) !default;
+$blue-light: lighten($blue, 25%) !default;
+$blue-lighter: lighten($blue, 40%) !default;
+
+$pink: #ba4397 !default;
+$pink-dark: darken($pink, 20%) !default;
+$pink-light: lighten($pink, 25%) !default;
+$pink-lighter: lighten($pink, 40%) !default;
+
+$yellow: #c3ab4a !default;
+$yellow-dark: darken($yellow, 20%) !default;
+$yellow-light: lighten($yellow, 25%) !default;
+$yellow-lighter: lighten($yellow, 40%) !default;
+
+$green: #53ca77 !default;
+$green-dark: darken($green, 20%) !default;
+$green-light: lighten($green, 25%) !default;
+$green-lighter: lighten($green, 40%) !default;
+
+$brand-primary:         $blue !default;
+$brand-success:         $green-dark !default;
+$brand-info:            $yellow-dark !default;
+$brand-warning:         $pink !default;
+$brand-danger:          $pink-dark !default;
 
 
 //== Scaffolding
@@ -32,7 +52,7 @@ $body-bg:               #fafafa !default;
 $text-color:            $gray-darker !default;
 
 //** Global textual link color.
-$link-color:            $brand-primary !default;
+$link-color:            $blue !default;
 //** Link hover color set via `darken()` function.
 $link-hover-color:      darken($link-color, 15%) !default;
 //** Link hover decoration.
@@ -177,9 +197,9 @@ $btn-danger-border:              darken($btn-danger-bg, 5%) !default;
 $btn-link-disabled-color:        $gray-light !default;
 
 // Allows for customizing button radius independently from global border radius
-$btn-border-radius-base:         $border-radius-base !default;
-$btn-border-radius-large:        $border-radius-large !default;
-$btn-border-radius-small:        $border-radius-small !default;
+$btn-border-radius-base:         0 !default;
+$btn-border-radius-large:        0 !default;
+$btn-border-radius-small:        0 !default;
 
 
 //== Forms
@@ -566,7 +586,7 @@ $popover-arrow-outer-color:           fade_in($popover-border-color, 0.05) !defa
 $popover-arrow-outer-fallback-color:  darken($popover-fallback-border-color, 20%) !default;
 
 
-//== Labels
+//== Labels and tags
 //
 //##
 
@@ -864,7 +884,7 @@ $blockquote-small-color:      $gray-light !default;
 //** Blockquote font size
 $blockquote-font-size:        ($font-size-base * 1.25) !default;
 //** Blockquote border color
-$blockquote-border-color:     $gray-lighter !default;
+$blockquote-border-color:     $pink !default;
 //** Page header border color
 $page-header-border-color:    $gray-lighter !default;
 //** Width of horizontal description list titles
