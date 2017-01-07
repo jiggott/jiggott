@@ -10,7 +10,7 @@ layout: default
 <div class="container">
         {% for post in site.posts limit: 5 %}
         <p><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> <small>({{ post.date | date: "%-d %b %Y" }})</small></p>{% endfor %}
-        <p><a class="btn btn-primary" href="/blog" role="button">All blog posts</a></p>
+        <p><a class="btn btn-primary" href="/blog/" role="button">All blog posts</a></p>
 </div>
 <div class="container" id="contacts">
     <div class="row">

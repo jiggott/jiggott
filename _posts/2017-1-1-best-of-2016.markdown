@@ -1,13 +1,13 @@
 ---
 layout: post
-date: 2016-1-1
+date: 2017-1-1
 title: Best of 2016
 description: The best podcasts, music, books, films, places and events of 2016. According to James Higgott.
 tags: Reviews
 socialtitle: 
 socialdescription:
-socialimageurl: 
-socialimagealt: 
+socialimageurl: /assets/2016.png
+socialimagealt: 2016
 ---
 
 These are some things I’ve enjoyed in 2016.

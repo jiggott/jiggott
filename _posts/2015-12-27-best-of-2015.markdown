@@ -6,8 +6,8 @@ description: The best podcasts, music, books, films, places and events of 2015. 
 tags: Reviews
 socialtitle: 
 socialdescription:
-socialimageurl: 
-socialimagealt: 
+socialimageurl: /assets/2015.png
+socialimagealt: 2015
 ---
 
 These are some things I’ve enjoyed in 2015.
@@ -78,7 +78,7 @@ Who knew that Northumberland is one of the most beautiful parts of the UK? I had
 ### Favourite day out
 Helping at the Abbotsbury swan round-up is possibly the best thing I did in 2015.
 
-<figure data-orig-width="1280" data-orig-height="960" class="tmblr-full"><img src="https://68.media.tumblr.com/8f1e5b65d36de06da7a240b8d1d2897b/tumblr_inline_o00ru5d3aE1qzlakw_540.jpg" data-orig-width="1280" data-orig-height="960" alt="image"></figure>
+<figure><img src="/assets/abbostbury.jpg" alt="Three people holding swans" /></figure>
 
 ### Favourite exhibition
 [Ai Weiwei](https://www.royalacademy.org.uk/exhibition/ai-weiwei) at the RA was fantastic, as was the Deutsche Börse prize at the Photographers’ Gallery (in particular [Ponte City](http://thephotographersgallery.org.uk/mikahel-subotsky-patrick-waterhouse) by Mikhael Subotzky and Patrick Waterhouse). However, my favourite exhibition was the educational, entertaining and incredibly well-designed [Forensics: the anatomy of crime](http://wellcomecollection.org/forensics) at the Wellcome Collection.
@@ -103,4 +103,4 @@ I produced a couple of big pieces of work (an [animated infographic of election 
 ### Favourite project at home
 I built our Christmas tree ([details here]({% post_url 2015-12-19-homemade-wooden-christmas-tree %})).
 
-<figure data-orig-width="2448" data-orig-height="3264" class="tmblr-full"><img src="https://68.media.tumblr.com/e0005185c26772815128c4b2fa4b42a3/tumblr_inline_o00rycgMWU1qzlakw_540.jpg" data-orig-width="2448" data-orig-height="3264" alt="image"></figure>
+<figure><img src="/assets/xmas-tree-5.jpg" alt="Wooden christmas tree" /></figure>
