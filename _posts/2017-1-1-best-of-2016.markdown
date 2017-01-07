@@ -39,25 +39,25 @@ Nattesford by Kvelertak.
 
 ## Books
 
-### Favourite novel I read in 2015
-[Night and the City](https://www.goodreads.com/book/show/948618.Night_and_the_City) by Gerald Kirsch.
+### Favourite novel(s) that I read in 2016
+[The Southern Reach](https://www.goodreads.com/series/112239-southern-reach) trilogy by Jeff Vandermeer. If Ballard did The X Files.
 
-### Favourite comic book I read in 2015
-[Three](https://www.goodreads.com/book/show/20638282-three) by Kieron Gillen.
+### Favourite comic book that I read in 2016
+[Southern Bastards](https://www.goodreads.com/series/140991-southern-bastards) by Jason Aaron.
 
-### Favourite non-fiction book I read in 2015
-[The Geek Manifesto: Why Science Matters](https://www.goodreads.com/book/show/13630458-the-geek-manifesto) by Mark Henderson.
+### Favourite non-fiction book that I read in 2016
+[Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman.
 
-### Favourite book that was actually published in 2015
-[Seveneves](https://www.goodreads.com/book/show/22816087-seveneves) by Neal Stephenson.
-
-## Films
+## Films and telly
 
 ### Favourite film from 2016
-[This time last year]({% post_url 2015-12-27-best-of-2015 %}) I was most excited for High Rise but my favourite films of 2016 were ones that I knew nothing about until I saw them in the cinema: Hunt for the Wildepeople was funny and poignant, and Arrival was sci-fi at its best - complex, abstract ideas explored in a speculative but believable setting.
+[This time last year]({% post_url 2015-12-27-best-of-2015 %}) I was most excited for High Rise but my favourite films of 2016 were ones that I knew nothing about until I saw them in the cinema: Hunt for the Wildepeople was funny and poignant, and Arrival was sci-fi at its best &ndash; complex, abstract ideas explored in a speculative but believable setting.
 
 ### Favourite old film that I watched in 2016
 Django Unchained (2012). OK, it's not that old but it is a far superior film to the actually hateful The Hateful Eight, which I saw at the beginning of 2016.
+
+### Favourite TV from 2016
+House of Cards continues to be brilliant. 
 
 ## Places and events
 
@@ -65,7 +65,7 @@ Django Unchained (2012). OK, it's not that old but it is a far superior film to 
 A long weekend in Wales with people I don't see all that often was probably my highlight, not least because we stopped off for a swim at Southerndown Beach on the way home.
 
 ### Favourite exhibition
-[Strange and Familiar](https://www.barbican.org.uk/artgallery/event-detail.asp?ID=17922) - photos of Britain by international photographers - was excellent.
+[Strange and Familiar](https://www.barbican.org.uk/artgallery/event-detail.asp?ID=17922) &ndash; photos of Britain by international photographers &ndash; was excellent.
 
 ### Favourite news story
 Two stories about bots and AI really caught my imagination: [DeepMind beating Lee Sedol at Go](http://insight.welovesalt.com/post/102da8p/is-twitter-just-a-platform-of-hate) and Microsoft's AI chatbot [turning from teenage girl to Hitler-loving sex robot](http://insight.welovesalt.com/post/102da8p/is-twitter-just-a-platform-of-hate) after just 24 hours' exposure to Twitter.
@@ -78,15 +78,13 @@ David Bowie? Muhammad Ali? Carrie Fisher? We lost many people this year but I'll
 
 ## Projects and activities
 
-I'm not sure I consolidated any of the activities I said I ought to in my [best of 2015 blog post]({% post_url 2015-12-27-best-of-2015 %}) last year. I did publish the [Crystal Palace Grub Crawl blog](https://crystalpalacegrubcrawl.com/) but I only published nine posts. None of the places I've reviewed have closed down though.
+I'm not sure I consolidated any of the activities I said I ought to in my [best of 2015 blog post]({% post_url 2015-12-27-best-of-2015 %}) last year. I did publish the [Crystal Palace Grub Crawl blog](https://crystalpalacegrubcrawl.com/) but I only managed nine posts. None of the places I've reviewed have closed down though.
 
 ### Best new activity
 I've started a new band with a guitarist friend. We have some tunes, a singer and a plan to head into the studio by March. 
 
 ### Favourite project at work
-I produced a couple of big pieces of work (an [animated infographic of election pledges](http://election.kingsfund.org.uk/pledges/) and an [alternative guide to mental health care](http://www.kingsfund.org.uk/audio-video/alternative-guide-mental-health-care-england)) and we won four Digital Impact awards for our election work. However, the thing I’m most proud of is [this blog about NHS.UK](http://www.kingsfund.org.uk/blog/2015/08/will-nhsuk-be-next-govuk) &ndash; the communications team does not traditionally write blogs, so pitching this, having it accepted and then writing it was quite out of the ordinary.
+I've started a full-scale redesign/rebuild of kingsfund.org.uk. I've also done some interesting work making the case for long-form content, the analytics/metrics of which I describe in [this blog post for Wonkcomms](https://wonkcomms.net/2016/04/07/long-form-metrics-what-to-measure-and-how-to-measure-it/).
 
 ### Favourite project at home
-I built our Christmas tree ([details here]({% post_url 2015-12-19-homemade-wooden-christmas-tree %})).
-
-<figure data-orig-width="2448" data-orig-height="3264" class="tmblr-full"><img src="https://68.media.tumblr.com/e0005185c26772815128c4b2fa4b42a3/tumblr_inline_o00rycgMWU1qzlakw_540.jpg" data-orig-width="2448" data-orig-height="3264" alt="image"></figure>
+Thanks to Codeacademy and autodidacticism I now know just enough about Git, Sass and Jekyll to be dangerous. Rebuilding jameshiggott.co.uk has been a really interesting challenge for me. The look and feel is nowhere near where I want it to be, but I'm quite happy with the technical architecture and version control practices I've put in place.

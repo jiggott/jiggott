@@ -3,9 +3,9 @@ layout: default
 ---
 <article class="container" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
+  <header class="post-header col-md-12">
     <h1 itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="small"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author | default: 'James Higgott'}}</span></span></p>
+    <p class="small"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</time> • By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author | default: 'James Higgott'}}</span></span></p>
   </header>
 
   <div itemprop="articleBody" class="col-md-8 col-xs-12">
@@ -14,7 +14,4 @@ layout: default
 
   {% include prev-next-post.html %}
 
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
 </article>
